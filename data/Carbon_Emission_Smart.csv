@@ -1,0 +1,501 @@
+Body Type,Sex,Diet,How Often Shower,Social Activity,Heating Energy Source,Transport,Vehicle Type,Frequency of Traveling by Air,Waste Bag Size,Energy efficiency,Monthly Grocery Bill,Vehicle Monthly Distance Km,Waste Bag Weekly Count,How Long TV PC Daily Hour,How Many New Clothes Monthly,How Long Internet Daily Hour,Cooking_with_microwave,Cooking_with_oven,Cooking_with_grill,Cooking_with_airfryer,Cooking_with_stove,Do You Recyle_Plastic,Do You Recyle_Paper,Do You Recyle_Metal,Do You Recyle_Glass,CarbonEmission
+overweight,male,omnivore,more frequently,often,coal,public,lpg,frequently,medium,Sometimes,264,330,7,4,3,7,1,0,1,0,1,1,1,1,1,921.6189060173009
+underweight,male,omnivore,daily,often,wood,walk/bicycle,petrol,very frequently,extra large,Sometimes,239,2734,2,11,19,8,0,0,0,0,0,0,0,1,1,766.4357483807299
+underweight,male,pescatarian,twice a day,sometimes,natural gas,private,lpg,rarely,extra large,Sometimes,493,1478,7,14,2,13,0,1,1,1,1,1,1,1,1,917.8906975550784
+overweight,male,pescatarian,less frequently,sometimes,electricity,private,hybrid,rarely,large,Sometimes,264,1275,8,13,7,4,1,0,1,0,0,1,1,0,1,879.3430617934562
+obese,male,omnivore,daily,never,wood,public,None,never,large,No,393,1152,7,7,10,2,0,1,0,0,0,0,0,1,0,947.2142256809532
+underweight,male,vegan,twice a day,never,coal,walk/bicycle,electric,very frequently,small,Sometimes,221,1895,5,10,2,0,0,0,0,1,0,0,0,1,0,512.5561081293565
+overweight,male,vegetarian,more frequently,never,wood,walk/bicycle,petrol,rarely,extra large,No,228,863,6,0,19,12,1,1,1,0,0,0,0,0,0,855.1460249670687
+obese,male,pescatarian,daily,sometimes,natural gas,public,electric,very frequently,extra large,Yes,495,1354,9,6,6,13,0,0,0,0,1,0,1,0,0,966.3866538487571
+overweight,female,pescatarian,less frequently,often,natural gas,private,lpg,never,large,Yes,221,663,5,7,8,3,0,1,0,1,1,1,1,0,1,728.8836439740878
+obese,female,vegetarian,daily,sometimes,electricity,private,lpg,very frequently,small,No,452,1661,1,4,11,9,1,1,1,0,1,0,0,1,0,934.9707824359572
+underweight,female,pescatarian,less frequently,never,coal,private,electric,rarely,large,Sometimes,289,2191,0,8,5,12,0,1,1,0,1,0,1,0,0,806.5043366314553
+obese,female,omnivore,less frequently,often,electricity,public,diesel,very frequently,small,No,483,2198,9,2,6,11,1,1,1,0,1,1,0,1,0,940.2563231662348
+obese,male,vegan,daily,never,coal,walk/bicycle,None,never,large,Sometimes,353,2255,2,3,0,7,1,0,0,1,1,1,1,1,1,355.2416505995736
+normal,female,vegan,daily,never,coal,public,hybrid,never,medium,No,353,1527,7,6,2,0,1,0,1,1,0,0,1,0,1,592.007255382038
+normal,male,pescatarian,twice a day,never,wood,private,diesel,frequently,medium,No,335,2331,0,4,15,2,1,0,1,0,1,0,1,1,1,1337.4933805559172
+underweight,female,vegetarian,less frequently,never,coal,walk/bicycle,lpg,never,extra large,Sometimes,210,127,1,8,9,14,1,1,0,1,1,1,1,1,0,512.0170408973869
+normal,female,pescatarian,more frequently,often,electricity,private,petrol,never,extra large,No,442,245,6,12,9,6,1,0,1,0,1,0,1,1,0,1211.8678164166763
+underweight,male,vegan,twice a day,sometimes,coal,walk/bicycle,hybrid,rarely,medium,Sometimes,496,853,2,8,16,3,1,1,0,1,0,1,0,0,1,688.3653186370316
+underweight,male,vegan,less frequently,never,wood,private,lpg,very frequently,extra large,Yes,96,2914,6,7,19,12,1,1,1,1,0,0,1,0,0,879.7739630783651
+underweight,male,omnivore,twice a day,often,wood,public,hybrid,never,small,Yes,171,512,1,13,15,8,1,0,0,0,1,0,0,1,0,745.3631779266551
+underweight,male,omnivore,more frequently,often,coal,private,diesel,never,medium,No,334,1243,4,14,16,13,1,1,1,0,1,1,1,1,1,1408.1373546317848
+normal,male,omnivore,more frequently,sometimes,electricity,private,lpg,very frequently,medium,Sometimes,443,2809,2,9,0,7,0,0,1,1,1,1,0,1,0,1207.2398127220704
+obese,male,vegan,more frequently,sometimes,wood,public,None,never,large,Sometimes,150,1291,2,0,0,7,1,0,1,0,0,1,0,1,1,395.0649789316711
+overweight,female,pescatarian,less frequently,never,electricity,private,petrol,rarely,medium,Sometimes,154,825,4,1,12,10,0,1,1,0,0,0,0,1,1,980.4987307075043
+underweight,female,vegan,less frequently,often,natural gas,walk/bicycle,hybrid,rarely,small,Sometimes,145,1687,6,13,4,11,0,0,0,0,0,0,0,1,0,386.20134295092555
+underweight,male,omnivore,more frequently,often,natural gas,public,None,frequently,extra large,No,333,717,3,2,14,4,0,0,1,0,1,0,0,1,0,1135.0492563043804
+overweight,male,omnivore,more frequently,never,natural gas,private,petrol,frequently,medium,Sometimes,171,1156,2,6,10,10,1,0,1,0,1,1,1,0,0,1233.7791132091284
+obese,male,omnivore,twice a day,often,electricity,private,lpg,never,small,Yes,388,1519,0,5,19,0,0,0,0,0,1,1,1,1,0,1125.0741160070502
+overweight,female,vegan,twice a day,often,wood,private,petrol,frequently,large,Yes,222,652,1,11,19,11,1,0,0,0,0,0,0,0,1,915.961992577157
+underweight,female,vegan,daily,sometimes,natural gas,private,petrol,very frequently,small,No,366,814,4,5,10,11,0,1,0,0,1,0,1,0,0,1015.885586104947
+underweight,male,vegetarian,more frequently,never,natural gas,private,electric,frequently,extra large,Sometimes,490,1035,9,7,5,11,1,1,0,1,1,1,1,1,1,958.3800202008988
+obese,female,omnivore,less frequently,often,electricity,walk/bicycle,None,never,small,No,261,2508,2,12,5,1,0,1,0,0,0,1,1,1,1,429.9934337501992
+normal,female,omnivore,daily,often,coal,public,electric,never,medium,Sometimes,226,1802,4,9,16,12,0,1,0,0,0,0,0,1,0,976.0694654499847
+overweight,female,pescatarian,more frequently,never,wood,public,lpg,never,medium,Yes,132,1168,4,13,8,13,0,0,0,0,1,1,0,0,1,689.5174145165821
+obese,male,vegan,more frequently,often,electricity,private,petrol,rarely,medium,Sometimes,428,267,0,5,11,4,1,1,0,0,0,1,0,0,0,949.6687974792574
+normal,female,vegetarian,more frequently,sometimes,coal,private,electric,rarely,medium,Yes,335,1358,2,14,1,3,0,1,0,1,0,1,1,0,1,813.8315778766174
+overweight,female,omnivore,daily,sometimes,coal,public,petrol,never,extra large,No,83,2100,1,12,10,10,1,0,0,0,0,0,0,1,0,867.0896382859218
+obese,male,vegan,less frequently,never,wood,walk/bicycle,diesel,never,extra large,Yes,110,2681,2,2,4,1,1,1,0,1,0,1,0,0,0,214.35222259406734
+obese,male,pescatarian,twice a day,never,electricity,private,lpg,frequently,small,Yes,298,2094,8,5,14,7,1,0,0,1,0,0,1,1,0,1127.4753488813656
+obese,female,vegetarian,more frequently,sometimes,electricity,private,hybrid,frequently,medium,Yes,414,2713,7,2,6,2,0,0,1,0,0,1,0,1,1,1069.5384103166157
+normal,female,vegetarian,more frequently,never,wood,public,hybrid,rarely,large,No,322,1254,5,9,11,8,0,0,1,0,1,1,0,0,0,932.3662476055217
+normal,male,vegetarian,less frequently,never,coal,walk/bicycle,petrol,never,small,Yes,229,1305,1,10,12,5,0,0,0,0,1,0,1,1,0,513.2991635555711
+obese,male,pescatarian,more frequently,sometimes,electricity,private,None,frequently,large,Sometimes,80,1063,4,3,5,1,1,1,0,1,0,1,1,0,1,525.0458593812191
+underweight,male,vegetarian,more frequently,sometimes,wood,public,hybrid,never,medium,Yes,167,2883,2,3,0,3,0,1,0,0,1,1,1,1,0,528.7722377600725
+normal,female,vegetarian,less frequently,never,wood,walk/bicycle,None,rarely,medium,Yes,310,1942,9,11,1,12,1,1,1,0,0,0,0,0,0,558.8330458774383
+overweight,female,pescatarian,more frequently,never,natural gas,private,hybrid,very frequently,medium,Yes,422,375,8,1,11,2,0,0,1,1,1,1,1,0,1,1150.1924039201208
+overweight,female,omnivore,twice a day,sometimes,wood,public,lpg,never,large,Sometimes,127,2621,3,8,12,9,0,1,1,1,0,1,1,1,0,819.9462183484836
+overweight,female,omnivore,daily,never,natural gas,walk/bicycle,petrol,rarely,small,Sometimes,88,1970,5,5,2,6,0,1,1,1,1,0,0,0,0,724.422526293309
+obese,male,vegetarian,more frequently,never,electricity,public,None,never,small,Sometimes,488,2336,3,5,1,9,0,0,1,0,1,1,0,0,0,885.1487481924796
+underweight,female,vegetarian,less frequently,never,electricity,walk/bicycle,diesel,frequently,extra large,Yes,348,2116,3,10,9,7,1,1,1,0,0,1,1,0,1,481.768122087718
+normal,female,vegan,twice a day,sometimes,natural gas,public,hybrid,frequently,extra large,No,425,1863,9,0,8,5,0,0,1,1,0,1,0,0,0,962.5845550868743
+underweight,female,omnivore,daily,never,electricity,public,lpg,rarely,small,Sometimes,112,2291,8,9,10,5,1,0,1,0,1,0,0,1,0,896.7476333553897
+overweight,male,vegetarian,more frequently,sometimes,coal,public,hybrid,rarely,small,No,226,284,5,9,17,4,0,0,0,1,0,0,1,1,1,935.867990162493
+underweight,male,vegetarian,more frequently,often,coal,walk/bicycle,electric,very frequently,medium,No,354,428,7,2,17,0,1,0,0,1,1,1,1,0,1,849.9609217007244
+normal,male,vegetarian,more frequently,never,coal,public,diesel,very frequently,medium,Yes,415,2209,0,6,17,6,0,1,0,0,0,0,1,0,0,1086.5186179844393
+underweight,female,omnivore,more frequently,often,natural gas,walk/bicycle,petrol,frequently,extra large,Yes,337,2861,3,3,4,5,0,1,0,0,1,1,0,1,0,765.9502683450162
+underweight,female,omnivore,more frequently,never,wood,public,hybrid,rarely,medium,No,352,2756,3,10,9,14,1,0,0,0,1,1,0,0,1,922.4344729161347
+underweight,male,vegetarian,less frequently,sometimes,electricity,public,petrol,rarely,extra large,Sometimes,264,127,0,1,18,0,1,0,1,1,0,0,0,0,1,670.9325735699913
+normal,female,pescatarian,less frequently,sometimes,electricity,public,lpg,rarely,large,No,124,2885,1,4,9,3,0,1,1,0,0,0,1,1,1,609.0514867156937
+obese,female,omnivore,daily,often,electricity,public,None,rarely,small,Yes,171,1599,1,11,10,0,0,0,1,0,1,0,0,0,1,774.5845491972757
+overweight,male,vegan,daily,often,wood,walk/bicycle,electric,rarely,large,Sometimes,201,757,5,4,0,9,1,0,1,0,0,1,0,0,1,266.49387051018533
+underweight,female,vegan,daily,never,natural gas,public,diesel,very frequently,medium,No,88,130,1,4,11,11,0,1,1,1,1,0,0,1,0,515.4234430867417
+overweight,female,omnivore,daily,sometimes,natural gas,walk/bicycle,None,frequently,extra large,Yes,129,215,2,7,16,6,0,1,1,1,1,0,1,0,1,675.9809109566293
+overweight,male,omnivore,twice a day,sometimes,wood,private,lpg,frequently,small,Sometimes,225,1521,6,12,17,14,1,1,0,0,1,0,1,0,0,1134.9843843581555
+normal,female,vegan,more frequently,never,electricity,walk/bicycle,lpg,frequently,extra large,Yes,232,363,6,14,16,3,0,1,0,0,1,0,1,0,1,595.0948050813029
+overweight,male,pescatarian,twice a day,often,wood,public,lpg,rarely,extra large,Sometimes,428,813,3,12,16,12,1,0,1,0,1,1,1,0,0,864.4428764359247
+normal,male,omnivore,more frequently,often,coal,public,None,rarely,small,Sometimes,478,1165,7,13,17,3,1,1,0,0,1,0,0,1,0,1130.566084944622
+obese,male,vegan,more frequently,sometimes,natural gas,public,lpg,frequently,extra large,Yes,344,1463,7,10,12,1,0,0,1,1,0,1,1,0,0,734.7802084176813
+normal,female,vegetarian,daily,sometimes,electricity,walk/bicycle,petrol,never,medium,No,290,2553,2,7,5,4,0,1,0,0,0,0,0,1,1,360.04963975781664
+overweight,male,pescatarian,twice a day,never,coal,walk/bicycle,diesel,rarely,small,No,138,2376,3,13,4,1,0,0,1,0,0,1,0,0,0,597.8687695919773
+underweight,male,vegan,twice a day,never,wood,public,lpg,frequently,large,Yes,173,974,5,7,4,9,1,1,0,1,1,0,1,0,0,494.37885519636245
+obese,male,omnivore,more frequently,sometimes,wood,private,diesel,never,small,No,311,215,2,7,0,10,0,1,0,0,0,0,0,0,1,1067.919663672404
+obese,female,vegetarian,twice a day,often,natural gas,walk/bicycle,lpg,rarely,small,Sometimes,80,2582,9,9,10,4,1,0,0,1,1,1,1,0,0,570.8952157363766
+underweight,male,vegetarian,daily,never,natural gas,walk/bicycle,petrol,very frequently,extra large,No,212,1007,5,2,6,9,0,1,1,0,1,1,0,1,0,475.2490994330102
+underweight,male,vegan,less frequently,sometimes,coal,walk/bicycle,None,very frequently,medium,No,443,885,0,5,17,1,1,1,0,0,1,1,0,0,1,659.776201461717
+normal,female,pescatarian,twice a day,sometimes,electricity,public,hybrid,never,large,No,88,886,3,1,14,13,1,1,0,0,0,0,1,1,1,615.0124869463506
+obese,female,omnivore,more frequently,never,wood,private,diesel,never,small,Sometimes,306,569,5,14,1,12,0,1,0,0,1,1,1,0,1,1112.0750905305745
+normal,female,omnivore,daily,never,coal,walk/bicycle,diesel,rarely,medium,Sometimes,436,348,4,7,2,3,1,0,0,1,1,0,0,1,1,756.5537557912565
+obese,male,omnivore,twice a day,never,coal,walk/bicycle,electric,rarely,small,No,435,1367,7,10,12,0,1,0,1,1,1,1,1,0,0,1012.5912400180845
+underweight,female,vegan,twice a day,never,coal,walk/bicycle,electric,frequently,extra large,No,450,2635,8,13,14,5,1,1,1,0,1,1,1,1,1,768.733866928238
+underweight,male,omnivore,daily,never,natural gas,private,None,never,extra large,Yes,455,2241,5,6,13,9,1,0,1,1,0,1,0,1,0,932.584810426673
+overweight,male,omnivore,twice a day,sometimes,coal,private,hybrid,rarely,large,Sometimes,432,2054,3,3,5,9,1,1,0,0,0,0,1,1,1,1210.5572500436137
+overweight,male,pescatarian,less frequently,often,coal,public,None,never,large,Yes,196,749,3,12,7,12,0,0,0,1,0,1,1,1,1,529.8889494912443
+obese,female,vegetarian,more frequently,sometimes,wood,walk/bicycle,lpg,never,medium,Sometimes,256,352,6,11,16,13,0,0,1,0,1,1,0,1,1,727.9222476415844
+obese,male,vegan,less frequently,sometimes,natural gas,walk/bicycle,None,very frequently,medium,No,403,1535,3,1,14,1,1,1,0,1,0,0,1,1,0,568.1429946406729
+obese,female,vegetarian,daily,often,electricity,private,petrol,very frequently,medium,Yes,51,374,4,4,5,12,0,1,1,1,0,0,1,1,0,677.6095883103371
+underweight,male,pescatarian,more frequently,sometimes,natural gas,walk/bicycle,None,never,extra large,Yes,212,1252,4,14,0,7,1,1,1,0,0,0,0,0,1,501.2421238660007
+normal,female,omnivore,daily,often,coal,public,None,very frequently,medium,No,156,1956,4,11,4,0,0,1,1,1,1,0,0,1,1,798.50869461231
+overweight,female,vegan,twice a day,sometimes,electricity,public,lpg,very frequently,medium,No,50,2166,2,5,4,4,0,0,0,0,0,1,1,1,1,409.1163837351241
+overweight,male,vegetarian,more frequently,sometimes,wood,private,hybrid,frequently,extra large,Yes,350,307,1,9,7,1,0,0,0,1,0,1,1,0,0,753.0244237948997
+normal,female,pescatarian,daily,often,wood,private,diesel,rarely,medium,Yes,194,302,7,0,11,10,1,0,1,1,0,0,0,0,1,1002.6969918266861
+underweight,male,pescatarian,less frequently,sometimes,electricity,private,None,never,small,No,225,2828,8,4,12,14,0,0,1,1,0,1,1,1,1,642.0176705518753
+overweight,male,pescatarian,twice a day,never,natural gas,walk/bicycle,diesel,never,large,No,393,821,6,8,14,0,1,1,0,0,0,0,1,0,0,879.6782859693009
+overweight,male,pescatarian,twice a day,often,wood,private,electric,rarely,medium,Yes,314,1026,4,9,7,1,1,1,0,0,1,0,1,0,1,860.6064482968005
+obese,female,vegetarian,less frequently,often,wood,walk/bicycle,electric,rarely,medium,Sometimes,476,1004,4,6,10,6,1,0,0,1,0,0,1,0,0,600.3017705566662
+underweight,male,vegan,daily,sometimes,wood,public,hybrid,frequently,extra large,Yes,469,2717,1,1,16,12,1,1,0,1,0,0,0,1,1,676.3162461566614
+overweight,female,vegetarian,more frequently,often,coal,public,petrol,never,medium,Yes,312,1845,0,11,12,9,0,0,0,0,1,1,0,1,1,743.1504156096622
+normal,male,pescatarian,daily,never,electricity,public,petrol,frequently,small,Yes,201,2578,3,11,6,9,0,1,0,1,1,0,0,1,0,656.2549541224525
+overweight,female,vegetarian,less frequently,sometimes,natural gas,walk/bicycle,lpg,never,medium,No,192,2466,6,10,9,8,1,0,0,0,1,0,1,1,0,629.6139618043425
+normal,male,omnivore,more frequently,never,natural gas,walk/bicycle,hybrid,rarely,large,Yes,151,2601,6,12,13,3,1,0,0,1,0,0,1,0,0,891.6466091104704
+normal,female,vegetarian,less frequently,never,natural gas,private,hybrid,never,extra large,Sometimes,209,2196,7,5,7,1,0,1,1,0,1,0,1,1,1,977.7286193418852
+normal,male,vegan,twice a day,sometimes,coal,public,lpg,never,large,Sometimes,360,207,9,13,15,11,0,1,1,1,1,0,1,1,0,831.3009504683023
+overweight,male,vegetarian,less frequently,sometimes,natural gas,public,None,rarely,small,Yes,455,455,6,0,15,11,1,1,1,0,1,1,0,0,1,752.4125164831972
+normal,female,omnivore,daily,never,wood,walk/bicycle,hybrid,rarely,large,Yes,245,310,5,2,10,14,1,1,0,1,1,1,0,0,1,585.6076337035565
+normal,male,omnivore,more frequently,sometimes,coal,private,electric,rarely,medium,Sometimes,385,947,8,14,2,1,0,1,0,1,1,1,1,1,1,988.5926736324989
+normal,female,vegan,more frequently,sometimes,natural gas,private,electric,rarely,small,Sometimes,474,2949,8,12,1,7,0,1,1,0,0,1,0,1,1,874.3289461025704
+obese,male,vegan,less frequently,never,wood,private,hybrid,rarely,small,Sometimes,439,2719,1,11,18,14,0,0,0,1,1,0,1,1,0,963.6958912896906
+overweight,female,vegetarian,more frequently,never,wood,public,None,very frequently,medium,Yes,420,2310,0,3,3,6,1,0,0,0,1,1,0,1,1,734.2154756589548
+obese,male,vegetarian,twice a day,often,natural gas,walk/bicycle,electric,very frequently,small,Sometimes,56,2202,5,13,6,4,0,1,0,1,0,1,1,0,0,450.6877775873759
+overweight,female,omnivore,daily,never,electricity,private,lpg,never,small,Yes,222,671,3,0,2,0,1,0,0,0,1,1,0,0,1,787.6902002701273
+normal,male,pescatarian,less frequently,sometimes,coal,walk/bicycle,None,never,extra large,No,471,2601,4,9,12,0,0,1,0,1,0,0,0,1,1,765.6097657051747
+normal,male,vegan,less frequently,never,coal,walk/bicycle,petrol,very frequently,large,Yes,249,2992,0,11,12,2,0,1,1,0,0,0,1,0,1,415.5121330009879
+underweight,female,vegetarian,daily,never,wood,walk/bicycle,None,never,extra large,No,281,1950,3,10,19,14,0,0,0,1,0,0,1,0,0,669.7852077331498
+obese,male,pescatarian,more frequently,never,wood,public,None,rarely,large,Yes,98,1827,3,13,8,8,0,1,0,1,0,1,1,0,1,676.2976655332534
+obese,female,vegan,twice a day,sometimes,natural gas,public,hybrid,rarely,large,Yes,320,2320,7,1,8,8,1,0,1,1,1,0,1,1,1,681.8094434229452
+obese,female,pescatarian,daily,never,wood,private,electric,frequently,large,No,317,1256,1,4,12,13,0,1,1,1,1,1,0,0,1,684.727185113768
+obese,female,vegan,twice a day,sometimes,wood,public,electric,very frequently,small,No,307,2588,4,14,19,10,1,0,0,0,0,1,1,0,1,827.9205042723485
+obese,female,vegetarian,twice a day,often,wood,public,electric,frequently,extra large,Sometimes,330,1134,7,9,15,7,0,1,0,0,0,1,1,0,1,825.4716531552519
+obese,male,pescatarian,more frequently,never,electricity,public,electric,frequently,large,Sometimes,115,2984,8,3,3,5,1,1,1,1,1,0,1,1,0,800.652592569611
+overweight,male,vegetarian,more frequently,often,electricity,walk/bicycle,lpg,rarely,extra large,Sometimes,430,1155,3,9,2,9,0,1,0,1,1,0,0,1,1,625.9766221953514
+normal,male,vegan,daily,never,coal,public,hybrid,never,medium,Sometimes,265,335,9,6,19,3,1,1,1,1,1,1,0,0,1,758.8978600537632
+normal,female,pescatarian,less frequently,never,coal,private,petrol,rarely,small,Sometimes,405,2066,3,13,16,6,0,1,0,1,0,0,1,0,0,1571.3204310871317
+overweight,female,vegan,twice a day,never,natural gas,public,electric,very frequently,extra large,Sometimes,448,1733,6,8,15,4,0,1,0,1,1,0,0,0,0,964.9993931512695
+normal,female,vegetarian,daily,often,natural gas,walk/bicycle,petrol,frequently,medium,Yes,118,1372,4,3,16,4,1,1,0,1,1,1,1,1,0,592.696920906126
+overweight,male,vegetarian,daily,never,coal,private,None,rarely,medium,No,80,1619,7,8,3,4,1,1,1,1,1,1,1,0,0,544.3165098030795
+normal,male,vegan,twice a day,often,electricity,public,lpg,rarely,extra large,No,350,1251,7,10,19,1,1,0,0,0,1,1,0,0,0,772.9169221084949
+normal,female,vegetarian,twice a day,often,coal,walk/bicycle,lpg,rarely,medium,Yes,362,164,9,4,17,4,0,0,1,0,1,0,0,0,0,900.6327200617272
+underweight,female,pescatarian,more frequently,never,natural gas,public,lpg,rarely,extra large,Yes,92,1704,6,5,16,0,1,1,1,1,1,0,1,0,0,962.6661668309014
+normal,male,vegan,daily,sometimes,electricity,private,diesel,never,large,Yes,125,343,7,5,9,2,1,0,0,0,1,1,0,0,1,850.2393627061045
+obese,male,vegetarian,less frequently,never,wood,private,hybrid,very frequently,medium,Sometimes,430,2727,9,11,16,14,1,0,1,1,0,1,1,0,1,1151.4340536996426
+obese,female,pescatarian,more frequently,often,natural gas,walk/bicycle,petrol,frequently,large,No,356,778,7,11,9,7,1,1,1,0,1,0,0,1,0,770.91179537421
+normal,male,pescatarian,twice a day,sometimes,coal,private,diesel,never,large,Sometimes,163,1898,7,5,0,11,0,0,1,1,0,1,1,1,0,1287.8788723444213
+underweight,male,pescatarian,twice a day,sometimes,electricity,walk/bicycle,None,very frequently,large,Yes,424,1152,6,4,12,1,1,1,1,1,0,0,0,1,0,761.8288850620139
+obese,female,vegan,twice a day,sometimes,electricity,private,lpg,frequently,small,No,314,1395,5,1,5,2,1,1,0,0,1,0,1,1,0,770.3531375218756
+underweight,male,pescatarian,twice a day,often,coal,private,petrol,very frequently,small,Yes,239,1440,4,2,19,1,0,0,0,1,1,0,0,0,1,1476.6248181790102
+obese,female,pescatarian,more frequently,often,wood,public,hybrid,never,extra large,Yes,115,482,7,7,14,6,1,0,1,1,0,1,0,0,1,777.2747738460508
+overweight,female,vegan,twice a day,never,wood,private,lpg,frequently,small,No,486,2019,0,6,8,2,1,0,0,1,0,0,1,0,0,796.5843807117434
+obese,male,pescatarian,twice a day,never,coal,private,diesel,frequently,medium,Sometimes,383,1530,3,0,7,7,1,1,1,0,1,1,0,0,1,1325.0068058185693
+overweight,female,pescatarian,more frequently,never,coal,public,electric,frequently,small,Sometimes,173,1398,8,11,18,14,1,1,1,1,0,0,1,1,0,892.1399973989443
+overweight,female,vegetarian,daily,often,electricity,private,None,very frequently,large,Yes,410,1621,8,7,15,12,1,0,1,1,1,0,0,1,1,710.1866278245559
+normal,female,vegetarian,daily,never,coal,public,diesel,very frequently,small,No,250,1928,3,2,16,1,1,1,0,1,0,0,0,1,1,777.6088189240868
+overweight,female,vegetarian,twice a day,never,electricity,public,diesel,rarely,extra large,No,206,178,3,6,6,11,1,1,1,1,0,0,1,1,1,555.6753990255754
+obese,male,vegetarian,more frequently,never,natural gas,walk/bicycle,electric,rarely,medium,No,259,1936,5,9,7,2,1,1,0,0,0,0,0,0,1,543.6283448801236
+obese,male,omnivore,daily,never,electricity,public,electric,never,medium,Sometimes,453,891,0,9,6,4,0,0,1,1,1,0,1,1,0,668.5529910241873
+underweight,male,omnivore,daily,never,natural gas,public,diesel,frequently,large,Sometimes,90,1574,2,10,12,14,1,0,0,1,1,0,1,1,1,634.602857453624
+underweight,male,omnivore,daily,sometimes,wood,private,lpg,very frequently,small,Sometimes,223,1366,6,0,14,3,1,1,1,1,1,0,0,1,1,1039.874713896038
+underweight,female,vegetarian,less frequently,never,natural gas,private,diesel,frequently,small,Sometimes,307,958,8,9,1,2,0,0,1,1,1,0,1,0,0,1070.0372382336598
+normal,female,omnivore,twice a day,never,electricity,walk/bicycle,electric,very frequently,medium,No,474,267,2,10,0,6,0,0,1,0,0,1,0,0,0,701.1327203635695
+underweight,female,vegan,daily,sometimes,coal,public,electric,frequently,medium,Sometimes,478,374,8,4,5,9,1,1,1,1,1,0,0,1,1,700.9845629264727
+obese,female,vegan,less frequently,sometimes,wood,public,electric,very frequently,extra large,No,457,678,1,7,4,6,1,0,1,0,0,0,1,0,0,532.9404136579891
+normal,male,pescatarian,less frequently,often,wood,walk/bicycle,diesel,rarely,large,No,418,1829,4,7,1,3,1,1,1,0,0,1,0,0,1,515.3080326464542
+overweight,female,vegetarian,daily,sometimes,wood,private,electric,frequently,extra large,Sometimes,283,1841,5,10,14,4,1,1,0,1,0,0,1,1,0,762.827386456086
+overweight,female,pescatarian,less frequently,sometimes,coal,public,None,never,small,Sometimes,480,2685,3,0,12,5,1,0,0,0,0,0,1,0,1,977.0740605917546
+overweight,male,pescatarian,less frequently,never,wood,private,None,never,medium,Sometimes,70,299,6,3,18,0,1,0,1,0,0,0,0,1,0,580.461393508856
+obese,female,omnivore,daily,often,coal,private,electric,never,extra large,Yes,324,164,6,4,7,11,0,0,0,1,1,0,0,1,0,942.8869830747287
+underweight,female,vegan,twice a day,never,electricity,walk/bicycle,hybrid,never,small,No,95,1017,5,0,18,2,1,1,1,1,1,1,1,0,0,510.88465858827163
+normal,male,pescatarian,more frequently,never,electricity,walk/bicycle,diesel,frequently,extra large,No,291,1714,4,13,17,11,0,0,0,0,1,0,0,0,1,734.3386116928351
+overweight,male,vegetarian,more frequently,never,natural gas,walk/bicycle,electric,never,large,Sometimes,257,1137,5,12,10,2,1,1,1,1,1,0,1,1,1,598.778697326566
+underweight,male,vegetarian,less frequently,sometimes,natural gas,private,diesel,frequently,medium,Yes,162,541,6,2,0,3,0,0,0,0,0,0,1,1,0,872.5362733796053
+underweight,male,vegetarian,twice a day,often,coal,walk/bicycle,None,rarely,medium,Yes,433,413,5,10,2,7,0,1,1,0,0,1,1,0,0,700.7981141463636
+overweight,female,pescatarian,less frequently,sometimes,coal,public,petrol,rarely,extra large,Yes,237,2369,1,9,12,7,0,0,1,1,0,0,1,0,1,743.486329762261
+normal,female,vegetarian,daily,often,natural gas,public,None,rarely,small,No,70,1076,2,8,16,6,0,1,1,1,1,1,1,1,1,483.91331083491923
+obese,male,pescatarian,twice a day,sometimes,coal,private,hybrid,never,extra large,Sometimes,71,1053,3,12,7,1,1,0,0,1,1,1,1,1,0,749.4904983889217
+obese,male,pescatarian,daily,often,coal,private,None,rarely,small,No,369,1180,8,0,10,2,0,0,1,1,1,1,1,0,0,785.2689490686053
+underweight,female,omnivore,twice a day,often,natural gas,public,petrol,frequently,medium,No,466,2010,8,7,9,14,0,0,0,0,0,0,0,1,1,1092.612746957246
+underweight,male,omnivore,daily,often,wood,public,petrol,never,small,Yes,353,2918,8,2,14,1,1,1,0,1,0,1,0,0,0,1002.2011463179632
+normal,female,omnivore,less frequently,often,electricity,public,None,rarely,large,Yes,489,2005,0,3,12,6,0,0,1,0,1,1,0,1,1,851.6649344892905
+normal,male,omnivore,less frequently,never,coal,walk/bicycle,diesel,never,small,No,167,2101,9,4,11,14,0,1,1,0,0,1,1,1,1,736.5042747115392
+underweight,male,pescatarian,twice a day,often,natural gas,walk/bicycle,electric,never,extra large,Yes,421,540,8,3,5,0,1,0,1,1,0,0,1,1,1,742.0824007741992
+normal,female,vegetarian,twice a day,never,electricity,public,electric,frequently,extra large,No,202,32,6,9,6,3,0,1,1,1,1,0,0,1,0,677.4921180444137
+overweight,male,vegetarian,more frequently,never,coal,walk/bicycle,None,frequently,small,No,263,1082,3,7,2,12,0,0,1,1,1,0,0,1,0,673.9542725225435
+obese,female,vegetarian,daily,sometimes,wood,walk/bicycle,hybrid,rarely,small,No,108,1113,6,9,9,10,0,0,0,0,0,1,1,1,0,512.6395588218357
+overweight,male,vegetarian,more frequently,never,natural gas,walk/bicycle,hybrid,rarely,extra large,Yes,237,1592,8,13,17,9,0,1,0,1,1,0,0,1,1,704.0470775335552
+normal,female,vegan,daily,sometimes,natural gas,private,lpg,rarely,medium,Yes,135,2493,1,13,9,13,0,0,1,0,1,1,0,1,1,650.8340004935224
+underweight,female,vegan,daily,never,coal,walk/bicycle,lpg,rarely,large,Sometimes,205,1605,8,3,2,11,1,1,1,0,1,1,0,1,0,513.6614439173411
+overweight,female,pescatarian,twice a day,sometimes,electricity,private,hybrid,very frequently,large,No,108,2172,1,0,10,10,0,1,1,1,0,1,0,1,1,817.1724054090389
+normal,male,vegan,more frequently,sometimes,natural gas,walk/bicycle,None,frequently,extra large,Yes,391,2140,5,11,8,4,1,1,0,1,1,1,1,0,0,618.5160957266486
+obese,female,pescatarian,daily,often,natural gas,public,diesel,very frequently,small,No,59,2787,8,5,1,2,0,1,0,0,0,0,0,1,1,612.6864488447447
+underweight,male,vegetarian,more frequently,never,wood,walk/bicycle,petrol,rarely,small,Yes,222,115,3,4,17,3,0,1,0,1,1,0,1,1,0,554.6864501638894
+underweight,female,pescatarian,daily,never,electricity,private,lpg,never,small,No,305,650,7,2,2,11,1,0,0,0,1,0,0,0,0,849.128778870428
+normal,male,omnivore,daily,sometimes,coal,walk/bicycle,petrol,very frequently,large,Yes,165,220,7,8,15,2,1,0,1,1,1,0,0,1,1,813.0570781524378
+overweight,female,vegan,more frequently,often,natural gas,private,lpg,very frequently,extra large,Yes,53,289,8,0,19,6,0,0,0,1,0,1,0,0,0,860.8820645252904
+underweight,male,pescatarian,twice a day,never,natural gas,private,electric,never,small,Sometimes,433,1714,5,14,3,11,1,1,0,0,1,0,0,0,0,845.9096635604702
+normal,female,omnivore,less frequently,often,wood,private,None,rarely,extra large,Sometimes,96,1909,3,6,15,7,1,0,1,0,1,0,1,0,0,594.1217673832173
+overweight,male,pescatarian,less frequently,often,electricity,walk/bicycle,electric,never,small,Sometimes,59,2773,8,0,3,3,0,0,0,0,0,1,0,0,0,394.0408134357567
+underweight,female,vegan,twice a day,often,coal,walk/bicycle,diesel,rarely,small,Sometimes,456,1401,6,12,16,1,0,0,0,0,0,1,1,1,1,695.8526802700725
+underweight,female,omnivore,more frequently,never,coal,walk/bicycle,lpg,frequently,extra large,No,386,1497,3,3,17,0,0,0,1,0,1,1,1,0,1,935.696021265289
+normal,female,omnivore,daily,often,natural gas,public,lpg,frequently,extra large,Yes,62,1855,2,2,11,10,0,1,0,1,0,1,1,0,1,829.9177808659545
+obese,male,vegetarian,daily,never,coal,walk/bicycle,electric,very frequently,large,Sometimes,163,594,2,1,19,7,1,0,0,1,1,0,0,0,0,695.315502999879
+underweight,female,vegan,twice a day,never,electricity,walk/bicycle,None,rarely,medium,No,68,725,4,10,1,13,0,0,1,0,0,1,1,0,0,277.1322913046928
+overweight,male,vegetarian,more frequently,sometimes,natural gas,public,petrol,frequently,medium,No,106,1415,9,13,9,0,1,1,1,0,1,1,0,0,1,751.6121348525721
+overweight,female,vegan,more frequently,often,wood,private,petrol,never,large,Yes,173,2633,5,5,10,6,0,0,0,0,1,1,0,0,1,1388.1760535210367
+obese,male,vegetarian,less frequently,often,wood,private,electric,never,medium,Yes,372,1157,9,8,0,5,0,0,1,0,1,1,0,1,0,707.1555536717142
+underweight,female,vegetarian,twice a day,often,coal,public,diesel,very frequently,medium,Yes,463,24,0,0,12,3,0,0,0,1,0,0,1,1,0,692.351026327668
+underweight,male,pescatarian,less frequently,sometimes,coal,private,None,rarely,medium,Sometimes,103,689,2,3,14,14,1,0,0,0,0,1,0,1,1,619.9119879459826
+normal,male,vegan,daily,often,natural gas,public,hybrid,frequently,extra large,Sometimes,274,2040,4,10,15,1,1,0,0,1,0,1,1,0,0,723.5184061097335
+obese,male,pescatarian,less frequently,often,electricity,private,electric,frequently,large,Sometimes,368,2636,7,13,2,9,1,0,0,1,0,1,1,0,1,839.9664496405534
+normal,female,omnivore,more frequently,never,coal,public,electric,never,small,Yes,105,2900,1,12,10,10,1,1,1,1,1,1,1,0,0,897.034309021032
+overweight,male,pescatarian,twice a day,often,electricity,walk/bicycle,petrol,never,small,Yes,305,134,5,7,3,11,0,0,0,0,1,1,1,0,0,666.8863517829134
+obese,female,pescatarian,more frequently,often,natural gas,walk/bicycle,hybrid,frequently,large,No,178,195,7,9,19,7,0,0,0,1,1,0,1,0,1,813.264065898287
+normal,male,omnivore,twice a day,sometimes,wood,public,None,never,small,No,55,2156,2,6,8,5,0,1,0,0,1,0,1,0,1,798.127178241477
+underweight,female,omnivore,more frequently,never,coal,private,hybrid,frequently,extra large,Sometimes,94,1424,6,7,1,4,1,1,1,1,1,1,0,1,0,952.8555782337044
+normal,female,vegan,twice a day,often,electricity,private,petrol,frequently,extra large,Sometimes,469,673,8,9,10,13,0,0,0,1,0,0,1,0,1,1094.7275357504113
+underweight,female,vegetarian,daily,sometimes,natural gas,walk/bicycle,diesel,rarely,extra large,Sometimes,498,1948,1,1,18,12,1,0,1,0,1,0,0,1,0,741.2517932058095
+underweight,male,omnivore,daily,often,coal,private,None,frequently,small,No,331,304,2,6,16,6,0,0,0,1,0,0,0,0,0,912.3695574639893
+overweight,male,pescatarian,less frequently,never,electricity,public,None,never,small,Yes,385,2472,2,11,18,5,0,0,1,0,0,0,1,0,0,864.9324729558133
+overweight,female,vegetarian,daily,sometimes,electricity,public,petrol,frequently,extra large,Yes,273,2581,5,11,14,8,1,1,0,1,1,0,0,0,1,855.5539478213431
+overweight,male,vegan,daily,often,electricity,public,diesel,frequently,large,Yes,255,1855,7,10,3,10,1,1,0,1,0,0,1,0,1,525.6548776246898
+overweight,male,pescatarian,less frequently,never,natural gas,walk/bicycle,hybrid,rarely,small,Sometimes,97,1955,7,8,4,12,1,0,1,1,1,0,0,0,0,648.6684985062595
+overweight,male,omnivore,more frequently,sometimes,natural gas,private,None,very frequently,large,Sometimes,436,1812,9,3,9,4,0,1,1,1,1,1,0,0,0,1042.8951636269514
+normal,male,vegan,less frequently,often,natural gas,public,diesel,rarely,medium,Yes,253,649,0,9,1,1,1,0,1,0,1,1,1,0,1,410.4833888618782
+overweight,male,vegetarian,twice a day,never,natural gas,private,lpg,very frequently,extra large,No,427,922,3,6,9,6,0,0,0,1,1,0,0,1,1,1016.6895866505232
+obese,male,omnivore,less frequently,never,coal,public,lpg,frequently,medium,Yes,430,404,2,14,4,11,1,1,1,1,1,0,1,1,0,891.5313253248298
+overweight,male,omnivore,twice a day,sometimes,electricity,walk/bicycle,None,rarely,small,Yes,225,2074,3,11,10,12,0,0,1,0,1,0,0,0,0,747.6898590548046
+overweight,female,vegan,daily,never,natural gas,walk/bicycle,hybrid,frequently,large,No,487,1994,4,2,5,14,1,1,1,0,1,1,1,0,0,503.2689124367566
+overweight,male,omnivore,daily,never,electricity,walk/bicycle,None,very frequently,small,No,432,18,1,9,10,8,1,1,0,0,1,0,1,1,0,696.2406653688392
+obese,female,vegetarian,more frequently,never,wood,public,hybrid,rarely,extra large,Yes,162,2217,3,5,13,10,1,0,0,1,0,0,1,1,1,789.9793595265397
+overweight,female,omnivore,twice a day,sometimes,electricity,walk/bicycle,None,very frequently,large,No,192,615,5,5,17,14,0,0,1,1,1,1,1,1,0,746.1847835923924
+overweight,female,vegetarian,more frequently,sometimes,coal,private,electric,frequently,extra large,Yes,143,12,1,4,16,5,1,1,1,1,0,1,1,1,0,671.7282299265192
+obese,male,vegan,more frequently,sometimes,electricity,walk/bicycle,lpg,frequently,large,Sometimes,230,2135,8,2,18,3,0,1,0,0,0,0,0,1,0,687.5497400318068
+overweight,female,pescatarian,twice a day,often,natural gas,walk/bicycle,hybrid,never,small,Yes,399,924,2,13,10,1,1,0,1,1,1,0,1,1,1,711.0992235634818
+underweight,male,omnivore,less frequently,often,coal,walk/bicycle,electric,very frequently,extra large,No,399,2615,9,6,16,3,0,0,1,1,0,1,1,1,0,822.6305701965058
+normal,male,pescatarian,more frequently,often,coal,walk/bicycle,electric,rarely,large,Sometimes,60,2011,4,5,9,7,1,1,1,0,1,1,1,1,0,605.9700125351619
+overweight,male,omnivore,more frequently,sometimes,natural gas,private,None,rarely,small,No,225,529,2,11,7,0,0,1,0,0,0,0,0,0,0,730.8471971499621
+obese,female,vegan,less frequently,sometimes,wood,public,petrol,never,extra large,No,496,1234,6,8,2,1,1,0,0,1,0,0,1,1,1,572.7975174670657
+underweight,male,pescatarian,twice a day,often,electricity,walk/bicycle,None,never,extra large,Sometimes,240,1445,7,11,2,11,0,0,1,1,1,1,1,0,1,497.2446125371682
+obese,female,vegan,twice a day,never,electricity,private,diesel,rarely,large,Sometimes,125,1200,4,13,19,8,0,0,0,1,0,1,1,0,0,1047.3092402365507
+obese,male,omnivore,daily,sometimes,coal,public,None,frequently,small,No,457,1351,1,10,12,6,1,1,1,0,1,0,0,0,0,1004.8108478578581
+underweight,female,vegan,daily,never,coal,walk/bicycle,petrol,rarely,medium,Sometimes,450,870,1,12,13,13,1,0,0,0,1,0,1,0,0,715.5024324703567
+underweight,male,pescatarian,less frequently,often,natural gas,walk/bicycle,hybrid,rarely,small,No,357,2696,5,14,0,11,0,0,1,1,0,1,0,1,0,579.5745811639197
+underweight,male,omnivore,daily,often,electricity,public,diesel,very frequently,medium,Yes,420,138,6,10,16,0,1,1,0,0,0,1,0,1,1,805.1767329075157
+underweight,male,vegetarian,twice a day,never,natural gas,walk/bicycle,diesel,frequently,extra large,No,198,1473,7,2,6,11,0,0,1,0,1,1,1,1,1,476.1333591412635
+overweight,female,vegetarian,less frequently,sometimes,electricity,public,diesel,very frequently,medium,No,357,976,8,3,13,2,1,1,0,1,1,1,0,1,0,793.7380150171422
+obese,male,pescatarian,less frequently,sometimes,coal,walk/bicycle,None,frequently,extra large,Sometimes,424,2701,8,14,1,2,1,1,1,1,1,0,1,1,1,693.390145786997
+obese,male,vegetarian,more frequently,never,wood,private,diesel,very frequently,small,Sometimes,212,459,8,4,11,9,0,1,0,0,1,1,1,0,1,1084.5810073591472
+underweight,male,omnivore,twice a day,sometimes,wood,private,lpg,never,extra large,No,165,1492,0,3,5,12,0,1,1,1,1,0,1,0,0,796.3853243794183
+obese,female,pescatarian,daily,sometimes,natural gas,walk/bicycle,hybrid,frequently,large,Sometimes,67,660,2,5,7,6,1,0,1,1,1,0,1,0,1,456.8358117002591
+underweight,male,omnivore,daily,often,natural gas,walk/bicycle,lpg,rarely,small,No,122,1594,1,0,7,11,0,1,0,1,1,1,0,1,0,566.3183488763127
+overweight,male,vegetarian,less frequently,never,natural gas,private,hybrid,rarely,medium,No,152,2745,4,7,14,1,0,0,1,0,1,0,0,1,1,961.9982720048625
+underweight,female,pescatarian,twice a day,sometimes,natural gas,walk/bicycle,None,rarely,medium,Sometimes,257,2055,0,0,12,0,1,0,1,1,0,1,0,1,1,568.351341643865
+overweight,male,omnivore,more frequently,sometimes,natural gas,walk/bicycle,lpg,never,large,No,212,1083,5,4,16,6,0,1,1,0,0,1,1,1,1,855.38595885832
+obese,female,omnivore,twice a day,sometimes,natural gas,walk/bicycle,hybrid,frequently,large,Sometimes,112,2798,2,0,2,2,1,1,0,1,1,1,1,1,1,572.7781188957707
+underweight,female,omnivore,more frequently,often,electricity,public,diesel,very frequently,extra large,No,363,1151,4,14,14,13,1,1,0,1,1,1,1,1,0,944.0034537961704
+normal,female,vegetarian,twice a day,often,wood,walk/bicycle,None,frequently,small,Yes,313,2630,7,11,18,6,1,0,0,1,0,1,1,1,1,580.6346892160753
+normal,female,omnivore,daily,often,coal,private,diesel,rarely,small,Sometimes,399,1975,9,12,13,11,1,0,0,1,1,1,1,0,1,1528.401351793364
+normal,male,pescatarian,less frequently,often,wood,walk/bicycle,petrol,frequently,large,No,145,1411,3,0,8,2,0,1,1,1,1,0,1,0,1,470.61592293677796
+normal,male,vegetarian,more frequently,never,wood,private,diesel,never,extra large,Sometimes,319,224,1,0,8,8,0,1,0,0,0,0,0,1,1,903.6402196238827
+overweight,female,pescatarian,twice a day,sometimes,natural gas,private,petrol,rarely,large,Sometimes,474,1048,2,3,15,1,1,0,0,0,0,0,1,0,0,1253.8454745837557
+overweight,female,vegan,twice a day,sometimes,coal,public,petrol,rarely,medium,Sometimes,380,783,0,2,17,2,0,0,1,1,1,0,1,0,0,760.3154726052092
+obese,female,vegan,more frequently,sometimes,electricity,private,diesel,frequently,large,Sometimes,121,2750,6,13,7,11,1,0,1,0,0,0,0,0,1,1288.0060379553622
+obese,female,vegan,daily,sometimes,coal,private,lpg,frequently,extra large,No,463,2447,9,6,12,3,1,0,0,0,0,0,1,0,1,1043.3196160502246
+underweight,male,omnivore,more frequently,often,coal,public,hybrid,never,medium,Sometimes,213,2965,1,4,3,13,0,0,0,1,0,0,1,1,0,908.3018900381063
+obese,male,vegan,less frequently,often,coal,public,diesel,frequently,medium,Yes,165,2286,8,3,8,3,1,1,0,1,0,1,0,0,1,616.9605676786844
+normal,female,pescatarian,daily,sometimes,wood,walk/bicycle,hybrid,frequently,medium,Yes,208,383,2,8,18,14,0,1,1,0,1,1,1,1,1,548.6848844694556
+obese,female,vegan,less frequently,sometimes,wood,public,diesel,very frequently,small,Sometimes,424,340,3,6,14,1,1,0,0,0,0,1,1,0,0,602.1723864575756
+normal,male,vegan,less frequently,often,electricity,walk/bicycle,petrol,frequently,large,No,244,11,2,9,16,5,1,0,1,1,1,1,1,1,1,335.787673397083
+obese,female,vegan,daily,sometimes,coal,private,None,never,extra large,No,423,553,4,5,15,12,1,0,1,1,0,0,0,1,1,649.8585080116717
+obese,male,omnivore,less frequently,sometimes,natural gas,private,None,rarely,extra large,Sometimes,109,577,0,2,3,7,1,0,1,0,0,1,1,0,0,412.770377710788
+obese,female,vegan,less frequently,never,wood,public,petrol,rarely,medium,No,195,1751,1,9,11,5,1,1,1,0,1,1,1,0,1,468.7329838447146
+obese,male,pescatarian,more frequently,often,coal,public,diesel,very frequently,large,No,198,1778,6,14,13,5,1,1,0,0,0,1,0,0,1,903.0368016681911
+obese,female,vegan,daily,never,electricity,walk/bicycle,hybrid,rarely,small,No,332,371,6,7,13,14,0,0,0,0,0,0,1,0,1,527.2428751875634
+obese,female,vegetarian,less frequently,often,natural gas,public,lpg,rarely,large,No,144,1985,4,11,7,6,0,1,1,0,1,0,0,0,1,626.2272565591124
+obese,female,omnivore,twice a day,sometimes,coal,walk/bicycle,hybrid,rarely,large,No,432,2105,4,14,0,0,1,0,1,1,1,0,1,0,0,770.1536227335035
+overweight,male,vegan,less frequently,never,coal,public,hybrid,frequently,medium,Sometimes,151,2732,8,5,19,14,0,0,1,0,0,1,1,1,1,758.4312108782567
+normal,male,vegetarian,twice a day,often,wood,public,hybrid,never,extra large,Sometimes,289,1574,2,11,14,14,0,1,0,1,1,0,0,1,1,791.7432135358899
+normal,male,pescatarian,daily,sometimes,coal,public,diesel,very frequently,extra large,Sometimes,101,1966,7,6,10,6,0,1,0,1,1,1,1,1,0,747.8265650461451
+overweight,female,omnivore,twice a day,never,coal,public,lpg,never,small,Yes,103,2163,5,3,10,0,0,1,1,0,1,1,0,0,0,940.5512546066283
+overweight,female,pescatarian,daily,sometimes,natural gas,walk/bicycle,None,very frequently,medium,Yes,84,797,0,2,15,13,1,1,0,0,0,1,1,0,0,433.059287695943
+normal,male,vegetarian,more frequently,never,coal,private,hybrid,rarely,medium,Sometimes,266,1872,1,0,8,9,1,0,0,1,0,1,1,0,1,888.2703423518069
+obese,male,vegan,daily,often,electricity,private,hybrid,never,large,Yes,227,456,2,7,18,3,1,1,0,0,0,1,1,0,1,583.9221687091314
+obese,male,omnivore,less frequently,often,wood,walk/bicycle,diesel,frequently,extra large,No,66,303,9,6,8,3,1,1,1,0,1,1,1,1,1,537.663511824038
+overweight,female,omnivore,more frequently,sometimes,electricity,walk/bicycle,petrol,never,medium,Yes,93,1735,7,5,18,4,1,0,1,0,1,0,1,0,1,871.432422934245
+underweight,male,pescatarian,twice a day,often,wood,public,electric,never,extra large,Sometimes,78,1184,4,14,1,3,0,0,1,1,1,0,0,0,1,493.5687326423869
+underweight,male,vegetarian,more frequently,sometimes,wood,walk/bicycle,petrol,very frequently,small,Yes,142,2007,5,1,11,14,1,1,0,0,0,0,0,0,1,574.3915718436406
+overweight,male,vegetarian,less frequently,often,wood,public,None,rarely,small,Yes,465,2774,4,9,9,10,0,1,0,0,0,0,0,0,0,798.2486230565646
+overweight,male,vegan,more frequently,sometimes,natural gas,public,diesel,frequently,extra large,Sometimes,171,339,3,2,2,12,1,0,1,0,0,1,0,1,1,483.12740199852755
+underweight,female,omnivore,more frequently,often,wood,private,petrol,never,medium,No,477,2048,9,10,15,13,1,1,0,0,1,1,0,0,1,1720.712924524874
+underweight,male,omnivore,more frequently,often,electricity,walk/bicycle,lpg,frequently,small,Yes,239,1164,1,10,18,7,0,1,0,0,1,1,1,1,0,696.4697466801699
+obese,male,omnivore,twice a day,often,electricity,private,electric,never,small,No,74,147,5,1,14,1,1,1,0,0,1,0,0,1,0,924.874081729579
+overweight,female,vegetarian,more frequently,often,natural gas,private,electric,rarely,medium,No,477,1751,8,0,18,10,0,1,0,1,1,0,1,1,0,1056.515243952795
+obese,male,vegan,more frequently,never,wood,walk/bicycle,hybrid,never,medium,No,86,2457,2,1,2,7,1,1,0,1,0,1,1,1,1,297.0996126547152
+underweight,male,vegan,less frequently,often,wood,private,lpg,rarely,extra large,No,458,2112,5,6,18,6,0,0,0,1,1,0,0,1,0,1021.8547467352689
+overweight,female,omnivore,daily,often,wood,walk/bicycle,lpg,very frequently,medium,Sometimes,352,679,2,9,6,1,1,1,0,1,0,0,0,0,0,708.8473556162139
+obese,female,omnivore,daily,often,coal,public,electric,never,extra large,No,77,2984,1,8,17,8,1,0,0,0,1,1,0,0,1,909.103303818619
+normal,male,vegetarian,more frequently,never,wood,public,diesel,rarely,extra large,No,421,2940,7,12,2,13,0,1,0,0,0,1,1,0,1,838.7169828389042
+overweight,female,vegetarian,daily,sometimes,wood,public,None,rarely,large,No,467,1871,7,6,17,1,0,0,0,1,0,1,1,1,0,892.2508777380657
+obese,female,vegetarian,more frequently,sometimes,electricity,private,None,very frequently,medium,No,378,478,3,14,7,8,0,0,1,1,0,1,0,0,0,653.6322604642992
+obese,female,pescatarian,more frequently,sometimes,natural gas,public,hybrid,rarely,small,Yes,238,1118,8,7,2,14,1,1,0,1,0,0,0,0,0,904.8709516338955
+normal,female,vegan,less frequently,never,coal,public,petrol,very frequently,extra large,No,357,198,1,5,6,7,1,0,0,0,0,1,1,0,0,546.4059188128181
+normal,male,vegan,more frequently,never,natural gas,private,None,never,medium,Sometimes,269,1129,6,5,2,9,0,1,0,1,1,1,0,0,1,567.2206056109706
+overweight,male,vegetarian,twice a day,often,electricity,public,hybrid,frequently,small,Sometimes,84,2230,0,2,5,3,0,1,0,0,0,1,0,1,1,465.52556048981904
+underweight,female,omnivore,daily,often,wood,private,petrol,very frequently,small,Yes,457,913,6,5,16,13,1,0,1,0,0,1,1,1,0,1426.2898113634385
+overweight,male,omnivore,twice a day,often,electricity,public,electric,very frequently,large,Yes,364,1351,2,3,15,5,0,0,0,0,0,0,0,1,1,962.8183046515782
+overweight,male,omnivore,less frequently,often,wood,public,diesel,very frequently,medium,Sometimes,221,1146,9,4,0,1,0,1,0,0,0,0,0,0,1,842.1331832126587
+underweight,male,vegan,more frequently,often,electricity,walk/bicycle,hybrid,rarely,large,No,366,414,0,11,19,6,1,1,1,1,1,0,0,1,0,666.2585982857194
+obese,female,vegetarian,twice a day,often,natural gas,public,petrol,very frequently,extra large,No,465,1279,3,0,12,0,1,1,0,1,1,0,0,1,1,889.080837274309
+normal,female,omnivore,more frequently,often,coal,public,None,rarely,medium,Sometimes,359,2433,0,4,13,8,1,1,0,1,0,0,0,1,0,1009.0251254316651
+obese,male,vegetarian,twice a day,never,wood,private,electric,rarely,small,Sometimes,374,2495,2,8,4,7,0,0,1,0,1,0,0,1,1,751.9095605380261
+obese,male,pescatarian,twice a day,often,natural gas,private,diesel,rarely,small,Yes,376,894,0,0,3,3,0,1,0,0,0,1,0,1,1,1001.4756058409725
+normal,male,omnivore,daily,never,wood,walk/bicycle,lpg,rarely,small,Sometimes,195,918,5,2,1,9,1,0,0,1,1,1,0,1,1,494.81037574179584
+normal,male,omnivore,less frequently,sometimes,natural gas,private,diesel,never,small,Yes,383,2568,9,2,18,5,1,1,1,0,1,1,0,1,0,1760.8798998531859
+overweight,female,pescatarian,more frequently,never,wood,walk/bicycle,electric,rarely,small,Yes,261,2173,2,8,9,1,0,0,1,1,1,0,1,0,1,544.6797610024984
+normal,female,omnivore,more frequently,sometimes,coal,private,diesel,very frequently,large,Sometimes,106,1505,2,1,0,3,0,0,1,0,0,0,0,0,0,1283.8541268494778
+underweight,male,vegan,twice a day,never,coal,private,diesel,never,small,Sometimes,72,2740,6,11,14,1,1,0,1,1,1,1,0,1,0,1395.0175914636773
+normal,male,pescatarian,daily,never,natural gas,private,electric,very frequently,small,No,487,750,4,9,5,2,1,1,0,0,0,0,1,0,0,876.0775628287382
+overweight,male,vegetarian,daily,never,natural gas,private,petrol,never,extra large,Sometimes,343,1357,9,2,14,2,0,0,1,0,0,0,0,0,0,1415.9073852601332
+normal,male,vegetarian,twice a day,often,wood,public,None,never,medium,Yes,152,2630,9,1,3,4,1,1,0,0,1,0,0,0,1,773.5764514728595
+obese,female,vegan,more frequently,sometimes,wood,public,electric,frequently,medium,Yes,179,638,3,1,6,12,0,0,0,1,1,1,0,1,0,486.765795733098
+overweight,male,omnivore,daily,often,natural gas,private,None,never,extra large,Yes,169,608,0,7,4,8,1,1,0,1,1,1,0,1,0,523.1652349642897
+normal,male,pescatarian,more frequently,never,natural gas,private,lpg,very frequently,medium,No,450,2321,9,3,4,12,1,0,0,1,0,0,0,1,1,1169.2861271217432
+overweight,male,vegan,less frequently,often,wood,public,lpg,frequently,large,Sometimes,296,530,9,3,13,11,0,1,1,0,0,1,0,1,0,700.1668139177863
+underweight,male,vegetarian,more frequently,often,natural gas,walk/bicycle,petrol,frequently,extra large,No,167,1798,3,7,0,0,0,1,1,1,1,1,1,0,0,503.4014014980935
+obese,male,vegan,less frequently,often,natural gas,private,diesel,rarely,medium,Yes,248,537,8,12,19,14,0,1,1,0,1,0,1,1,1,1038.8797285682244
+obese,female,omnivore,twice a day,sometimes,electricity,private,lpg,very frequently,extra large,Yes,283,1480,6,14,12,6,0,1,1,1,1,1,1,0,1,1056.5292409363753
+overweight,female,vegan,less frequently,sometimes,coal,private,diesel,rarely,extra large,No,287,1157,3,5,17,11,1,0,1,1,0,0,1,0,1,1074.2889627487766
+overweight,female,vegetarian,daily,often,wood,public,diesel,frequently,extra large,Sometimes,427,2628,6,4,4,8,0,0,0,1,0,1,0,1,0,790.5736866008704
+underweight,female,pescatarian,less frequently,sometimes,coal,public,diesel,frequently,medium,Sometimes,63,2825,5,11,13,1,0,1,1,0,0,0,1,0,0,788.0017004350318
+normal,female,pescatarian,twice a day,never,electricity,public,hybrid,rarely,small,Sometimes,179,1104,9,1,5,7,0,0,0,0,0,0,1,0,1,733.3086227685363
+obese,male,vegetarian,less frequently,never,coal,private,lpg,very frequently,extra large,No,411,459,5,1,11,1,1,0,1,1,0,0,0,0,1,827.5094090071901
+overweight,male,pescatarian,twice a day,never,wood,private,electric,very frequently,large,Yes,169,2759,4,7,5,4,0,1,0,1,0,0,1,1,1,696.4351097731679
+underweight,male,vegan,less frequently,sometimes,wood,private,electric,never,extra large,Yes,81,1769,9,8,10,6,1,0,1,1,1,0,0,0,1,662.4605827816655
+normal,male,vegetarian,daily,never,electricity,walk/bicycle,diesel,rarely,small,Yes,451,2669,7,7,11,4,1,0,1,0,0,1,1,1,1,629.0881715357526
+underweight,female,omnivore,less frequently,never,coal,private,diesel,rarely,small,Yes,324,953,6,10,15,0,1,1,1,0,0,1,1,0,1,1378.9433442875977
+underweight,female,omnivore,more frequently,sometimes,coal,walk/bicycle,petrol,rarely,large,Yes,157,667,1,12,4,5,1,1,0,0,0,1,1,1,1,728.711448464782
+obese,female,vegan,twice a day,never,coal,walk/bicycle,lpg,never,small,Sometimes,379,2892,8,4,13,1,0,1,1,0,0,1,1,1,0,643.7859344601679
+underweight,male,omnivore,less frequently,often,coal,private,lpg,never,large,No,390,2543,0,10,6,7,0,0,0,1,1,0,0,1,1,1070.5027594288135
+obese,female,omnivore,twice a day,never,coal,private,lpg,very frequently,extra large,No,269,2571,4,5,19,5,1,1,0,0,1,1,1,0,0,1309.9518500363176
+normal,female,pescatarian,twice a day,never,natural gas,walk/bicycle,None,very frequently,small,Sometimes,123,1706,8,14,5,14,0,0,0,1,0,1,1,1,1,572.3697565366958
+overweight,male,vegan,less frequently,never,wood,private,hybrid,never,large,No,110,1332,1,10,2,13,0,0,0,1,0,1,1,0,0,449.1602784430396
+obese,male,vegan,less frequently,never,electricity,private,None,frequently,extra large,Yes,322,2415,7,2,13,9,1,0,1,0,1,1,0,1,1,483.8845831937191
+underweight,female,omnivore,less frequently,often,wood,private,None,very frequently,extra large,Sometimes,431,990,7,2,10,1,0,1,0,1,1,1,0,0,0,818.9631466643381
+obese,male,vegan,twice a day,often,electricity,public,electric,rarely,small,Yes,173,2864,6,4,3,14,1,0,1,0,1,0,1,0,0,674.9470961115486
+obese,male,omnivore,daily,often,natural gas,private,lpg,never,large,Yes,94,2253,3,3,19,3,0,0,1,0,0,1,0,1,0,1053.5310772050655
+normal,male,pescatarian,daily,never,wood,public,petrol,rarely,medium,Yes,493,1151,2,4,7,0,1,0,0,1,0,1,0,0,0,758.6252823623391
+underweight,female,pescatarian,daily,sometimes,wood,public,electric,frequently,large,Sometimes,355,1869,7,0,10,0,1,1,1,1,0,1,0,0,0,885.8150093771854
+overweight,male,vegan,twice a day,often,coal,private,electric,never,extra large,No,169,1812,1,14,5,8,0,0,1,0,0,0,0,1,0,536.8175984197202
+overweight,female,vegan,more frequently,never,wood,public,electric,never,large,No,403,1207,6,6,5,2,0,0,0,0,0,0,0,1,0,685.8268725120179
+overweight,male,vegetarian,twice a day,often,natural gas,public,petrol,never,medium,Sometimes,130,1574,3,7,12,3,1,0,0,1,1,1,1,0,0,664.9381769047902
+obese,female,vegan,twice a day,never,electricity,private,None,frequently,extra large,Yes,66,797,7,10,2,6,0,0,0,1,1,0,0,1,1,361.8689585457234
+overweight,female,omnivore,less frequently,never,natural gas,public,lpg,never,medium,Sometimes,428,1850,6,11,17,13,1,0,1,1,0,0,0,0,1,961.5063383890476
+obese,male,pescatarian,more frequently,sometimes,electricity,walk/bicycle,hybrid,rarely,extra large,Yes,492,2558,8,10,8,13,1,0,0,0,1,0,1,1,1,721.6234048495937
+overweight,male,pescatarian,more frequently,often,coal,public,electric,frequently,extra large,Sometimes,137,2264,0,6,11,9,0,1,1,1,1,1,1,0,1,721.8791240703341
+normal,male,vegetarian,twice a day,sometimes,natural gas,walk/bicycle,electric,never,large,Sometimes,301,2042,6,6,1,5,1,1,0,1,0,1,1,1,0,466.29716675378324
+normal,male,pescatarian,more frequently,often,natural gas,public,None,frequently,small,Yes,53,2647,0,3,5,2,0,1,1,0,0,0,0,0,1,668.4265894729796
+normal,male,vegan,more frequently,often,wood,public,lpg,very frequently,extra large,Yes,340,1502,7,11,7,12,1,1,1,0,0,1,0,1,1,697.4117065578857
+normal,female,omnivore,less frequently,sometimes,coal,walk/bicycle,diesel,rarely,medium,Sometimes,156,2486,2,2,11,7,0,1,0,0,0,0,0,0,0,664.2504274692233
+obese,female,vegan,twice a day,never,natural gas,private,lpg,frequently,large,No,267,522,6,4,9,9,1,1,0,1,0,0,0,0,0,748.6800541757824
+obese,male,omnivore,twice a day,sometimes,coal,public,hybrid,frequently,large,No,94,2442,5,12,13,5,1,1,1,1,1,0,0,1,0,941.061954651007
+underweight,male,omnivore,daily,never,electricity,private,lpg,frequently,medium,Yes,423,2420,4,13,18,14,1,1,0,1,0,1,1,1,0,1074.9170319570553
+overweight,female,vegetarian,less frequently,never,wood,public,hybrid,very frequently,small,Sometimes,399,2540,9,6,9,14,0,0,1,0,0,1,1,0,0,938.603482646394
+obese,male,vegan,more frequently,often,natural gas,public,electric,never,medium,Sometimes,88,771,2,7,19,10,0,1,1,0,0,0,0,0,0,676.1784558601803
+overweight,female,vegetarian,more frequently,often,wood,walk/bicycle,None,never,large,Yes,133,1986,2,1,17,13,1,0,1,1,0,0,1,1,1,505.7548235614199
+normal,female,vegetarian,twice a day,sometimes,coal,private,lpg,never,large,Yes,226,386,9,4,13,9,0,0,0,1,1,0,1,1,1,985.9583896574939
+obese,female,vegan,daily,often,coal,walk/bicycle,lpg,very frequently,extra large,Sometimes,284,148,1,5,5,9,1,1,0,1,1,0,0,1,1,341.4921487884656
+underweight,female,vegetarian,less frequently,sometimes,natural gas,walk/bicycle,electric,frequently,small,Yes,351,2078,1,8,15,8,0,1,1,1,0,1,1,1,1,505.65714775423396
+overweight,female,omnivore,less frequently,never,coal,private,hybrid,very frequently,medium,Sometimes,63,372,0,8,8,8,0,0,1,0,1,0,0,0,0,736.3610876081068
+obese,male,vegan,more frequently,never,natural gas,private,petrol,very frequently,small,Sometimes,107,2881,8,8,0,6,1,1,1,0,1,0,0,1,0,1414.1504662273226
+normal,male,pescatarian,more frequently,sometimes,coal,private,lpg,very frequently,large,No,498,2810,0,4,19,12,1,0,0,0,1,0,0,1,1,1275.0606190736273
+obese,male,omnivore,twice a day,never,natural gas,walk/bicycle,petrol,frequently,extra large,Sometimes,292,1973,8,1,10,0,0,1,0,1,0,0,0,0,1,868.0663247260374
+obese,female,omnivore,twice a day,never,natural gas,walk/bicycle,petrol,never,large,Sometimes,465,1667,3,1,3,11,0,0,1,1,0,1,1,1,1,765.1183548330388
+underweight,female,omnivore,less frequently,sometimes,wood,public,lpg,very frequently,large,Yes,265,618,3,4,3,3,1,1,1,0,1,1,1,0,1,712.0405377359045
+obese,male,vegetarian,more frequently,often,natural gas,private,petrol,never,small,Sometimes,292,1096,0,4,1,3,1,1,1,0,0,0,1,0,1,1035.9588301161536
+overweight,female,vegan,twice a day,often,natural gas,walk/bicycle,diesel,never,medium,No,440,269,6,11,2,4,0,1,1,1,1,0,0,0,0,641.8584535350752
+obese,male,pescatarian,daily,sometimes,natural gas,public,lpg,rarely,medium,No,192,2437,7,9,14,12,1,1,1,0,0,1,0,1,0,770.939667224781
+normal,female,vegetarian,twice a day,sometimes,electricity,private,lpg,rarely,medium,Yes,304,1555,9,8,5,12,1,0,1,0,1,1,0,1,1,948.5617476286998
+underweight,female,omnivore,daily,sometimes,coal,public,electric,frequently,medium,Yes,253,1052,2,9,8,9,1,1,0,1,1,0,0,0,0,913.5311563919047
+obese,female,vegetarian,more frequently,never,electricity,public,electric,never,extra large,Sometimes,96,129,1,12,13,4,1,1,1,1,1,1,0,0,0,594.4610758198501
+overweight,male,pescatarian,more frequently,often,natural gas,walk/bicycle,petrol,never,medium,No,247,810,9,0,9,11,0,1,1,0,0,1,1,1,0,836.0724915137622
+obese,male,vegan,twice a day,sometimes,natural gas,walk/bicycle,electric,rarely,large,Sometimes,430,891,7,1,14,8,0,1,1,0,0,0,0,0,1,717.7931969922248
+normal,female,vegan,twice a day,sometimes,natural gas,walk/bicycle,hybrid,never,small,Sometimes,278,2002,0,14,15,6,0,1,1,1,1,0,1,1,0,463.51751430059693
+underweight,female,pescatarian,daily,sometimes,wood,public,hybrid,never,large,Sometimes,402,1770,1,1,15,12,0,0,1,1,0,0,1,1,0,789.2128339081034
+underweight,female,pescatarian,daily,sometimes,electricity,private,electric,rarely,medium,Yes,472,1675,2,13,18,6,1,0,1,1,0,0,0,0,1,1003.0912208202384
+underweight,female,vegetarian,daily,often,coal,private,None,never,medium,Sometimes,235,1057,2,5,2,14,1,1,0,1,0,1,1,0,0,491.51302507029624
+overweight,female,pescatarian,less frequently,never,natural gas,walk/bicycle,hybrid,frequently,small,Yes,61,332,8,1,4,12,1,1,1,0,1,1,0,0,1,467.74461622597755
+normal,female,vegetarian,less frequently,sometimes,wood,walk/bicycle,petrol,never,large,Yes,482,1215,2,1,1,5,0,0,1,1,0,0,1,1,1,426.80064418595606
+overweight,male,pescatarian,twice a day,never,electricity,walk/bicycle,lpg,never,small,No,332,378,5,6,11,3,1,0,0,0,0,1,1,1,0,662.1830747575631
+obese,female,vegan,twice a day,sometimes,electricity,walk/bicycle,electric,never,small,No,316,1092,2,10,16,1,1,0,0,0,1,1,0,0,1,529.6328602406477
+underweight,male,vegan,daily,often,wood,private,lpg,never,medium,No,229,940,4,12,19,14,0,1,1,1,0,1,0,1,1,849.806582945985
+normal,female,omnivore,more frequently,never,natural gas,walk/bicycle,lpg,never,large,No,362,2418,2,11,4,1,1,0,0,0,0,1,0,1,0,782.3233045888793
+obese,male,vegan,less frequently,sometimes,coal,public,lpg,rarely,large,No,479,2303,7,14,11,8,1,1,0,1,1,0,1,0,1,864.7394372893858
+normal,female,vegan,daily,often,natural gas,private,None,rarely,extra large,Yes,354,145,6,3,4,11,0,1,0,1,1,1,0,0,0,507.75914712702166
+underweight,female,omnivore,more frequently,never,wood,public,petrol,rarely,small,Yes,324,1463,1,6,13,0,0,1,1,0,0,1,0,1,0,826.4096712038579
+overweight,female,pescatarian,more frequently,never,electricity,public,hybrid,rarely,medium,No,60,858,9,12,16,6,1,0,1,1,1,1,1,0,0,763.0259656947178
+obese,female,vegan,daily,sometimes,coal,walk/bicycle,hybrid,never,medium,No,141,436,5,2,19,5,0,0,0,0,0,1,0,1,0,610.7663366152406
+overweight,female,pescatarian,daily,sometimes,electricity,private,electric,frequently,medium,Sometimes,364,990,9,0,13,7,1,1,1,1,1,0,0,1,0,965.5107727951412
+normal,male,pescatarian,daily,sometimes,natural gas,walk/bicycle,hybrid,rarely,medium,Yes,463,2100,2,10,10,14,0,1,0,1,1,0,0,1,0,681.5575128241175
+overweight,female,omnivore,daily,often,natural gas,private,diesel,rarely,extra large,Yes,133,270,3,3,17,5,0,0,1,0,0,1,1,1,0,983.4157198852159
+normal,female,pescatarian,twice a day,sometimes,electricity,private,diesel,never,large,Sometimes,240,2923,2,4,6,13,1,1,0,0,0,0,1,0,0,1461.6433922562912
+overweight,male,pescatarian,daily,sometimes,wood,public,lpg,very frequently,extra large,Yes,58,370,2,4,17,0,1,0,0,1,0,0,0,1,1,677.2155092387055
+obese,male,omnivore,twice a day,sometimes,wood,walk/bicycle,lpg,never,extra large,Sometimes,271,1179,0,13,5,2,1,1,0,1,1,0,1,1,1,602.3769506575318
+normal,male,vegetarian,more frequently,often,electricity,private,None,rarely,extra large,No,412,667,7,11,6,6,0,1,0,1,1,0,1,0,1,674.8961994086036
+normal,male,vegan,less frequently,sometimes,electricity,public,lpg,very frequently,extra large,Sometimes,149,2308,0,0,1,13,1,0,0,0,1,0,0,1,0,328.9357766738903
+overweight,male,vegan,more frequently,sometimes,wood,walk/bicycle,electric,never,medium,Yes,181,1513,1,11,15,8,0,1,1,0,0,1,0,0,1,399.8315996204338
+overweight,female,vegetarian,daily,often,electricity,private,petrol,frequently,medium,No,353,1138,1,8,15,12,1,0,1,1,1,0,0,0,0,1052.3226794605841
+overweight,male,vegetarian,less frequently,sometimes,wood,walk/bicycle,diesel,frequently,extra large,No,172,1741,0,9,18,13,1,0,0,0,1,0,1,1,1,475.1341571384971
+normal,male,omnivore,more frequently,sometimes,natural gas,public,petrol,rarely,extra large,Sometimes,249,1892,5,11,0,14,1,1,0,1,0,0,1,0,0,819.0964638408495
+overweight,male,omnivore,twice a day,never,natural gas,private,None,rarely,medium,No,425,2134,2,1,6,14,0,1,1,1,0,0,1,1,0,706.5238766930274
+normal,female,vegan,less frequently,often,wood,walk/bicycle,None,rarely,medium,Yes,470,1242,7,1,14,11,0,0,0,0,1,1,1,1,0,647.4578301698226
+underweight,female,vegan,daily,never,natural gas,public,petrol,never,small,Yes,311,114,8,12,0,3,0,0,1,1,1,0,0,0,0,610.204036111073
+underweight,female,omnivore,more frequently,sometimes,electricity,walk/bicycle,lpg,rarely,medium,Sometimes,361,2432,7,5,3,12,1,1,1,0,0,1,0,1,0,829.6718131298308
+overweight,male,vegan,less frequently,often,electricity,public,diesel,very frequently,small,Yes,142,191,6,11,6,10,0,0,1,1,1,1,1,0,0,408.72561755478637
+overweight,male,omnivore,less frequently,never,electricity,public,lpg,rarely,extra large,Sometimes,192,222,7,14,0,3,1,1,0,0,0,1,1,1,1,623.3806427224218
+overweight,female,omnivore,more frequently,never,natural gas,walk/bicycle,lpg,very frequently,medium,Sometimes,359,1412,8,2,2,14,0,0,1,1,0,1,0,0,0,866.2307300447612
+obese,female,vegan,more frequently,never,electricity,public,petrol,very frequently,extra large,Yes,431,2799,7,6,9,12,0,1,0,1,0,1,1,1,0,875.8411017310217
+obese,female,vegan,less frequently,sometimes,electricity,public,lpg,never,extra large,Yes,464,502,0,14,8,6,1,1,1,1,0,0,1,0,1,524.7378872492351
+obese,female,pescatarian,twice a day,sometimes,natural gas,private,lpg,rarely,extra large,No,145,893,9,3,10,9,1,0,1,0,1,1,0,1,0,915.3515833001278
+overweight,female,pescatarian,more frequently,never,coal,private,electric,rarely,extra large,Sometimes,325,2738,6,4,17,1,0,1,1,0,0,0,1,1,1,1099.3536686884925
+obese,female,pescatarian,daily,never,wood,walk/bicycle,electric,very frequently,medium,No,93,127,0,10,9,2,1,1,1,0,1,0,0,1,0,380.4288977957682
+underweight,male,vegetarian,more frequently,sometimes,wood,private,electric,frequently,small,Yes,224,995,4,0,7,7,1,1,0,1,0,0,1,0,0,751.6748675152782
+obese,male,vegan,twice a day,often,wood,public,None,very frequently,small,Yes,376,877,6,0,16,3,0,0,1,1,0,0,0,0,1,727.8607827283662
+underweight,female,pescatarian,more frequently,never,wood,private,diesel,never,extra large,Sometimes,496,1763,8,12,18,9,0,0,1,1,0,1,1,0,0,1501.4888416626761
+underweight,female,pescatarian,more frequently,often,natural gas,walk/bicycle,petrol,frequently,extra large,Sometimes,78,705,6,12,4,0,0,1,1,0,0,1,1,0,0,591.511384958284
+normal,female,pescatarian,more frequently,sometimes,natural gas,private,None,frequently,large,Yes,412,2922,6,1,18,3,1,1,0,0,0,0,1,1,0,838.6054544069863
+normal,male,vegetarian,daily,never,natural gas,public,hybrid,never,extra large,Sometimes,255,798,0,6,13,12,1,0,1,0,0,1,0,0,1,625.4632145582369
+overweight,male,omnivore,less frequently,sometimes,coal,public,lpg,rarely,small,Sometimes,138,665,6,6,19,0,1,1,1,0,0,1,1,1,1,834.1364442465432
+obese,male,vegetarian,daily,often,natural gas,private,electric,very frequently,medium,Yes,199,2605,0,10,12,0,0,1,0,0,0,1,1,1,0,630.9071452641558
+overweight,female,vegetarian,daily,sometimes,wood,walk/bicycle,electric,very frequently,extra large,No,476,400,7,0,19,10,0,0,1,1,1,0,1,1,1,719.2352735047994
+overweight,female,pescatarian,daily,never,natural gas,private,None,rarely,medium,Yes,410,2905,7,2,15,5,0,1,1,0,1,0,1,1,1,774.9658800859565
+normal,male,pescatarian,more frequently,sometimes,electricity,walk/bicycle,diesel,very frequently,extra large,Sometimes,338,1164,1,8,8,14,0,0,0,1,1,1,1,0,0,709.008181943253
+obese,female,vegetarian,more frequently,never,coal,private,electric,frequently,small,Yes,120,910,1,1,19,8,1,1,1,1,1,0,1,0,1,846.8240435180138
+normal,male,omnivore,more frequently,never,electricity,public,diesel,rarely,small,No,198,87,3,14,11,5,1,1,0,1,1,0,1,1,1,686.5568797915694
+normal,male,vegan,twice a day,sometimes,natural gas,public,diesel,frequently,large,Sometimes,78,848,9,5,6,9,1,0,0,0,1,1,0,1,1,567.6068279657248
+obese,female,pescatarian,twice a day,sometimes,coal,private,diesel,never,extra large,No,171,105,1,0,6,6,1,0,0,1,1,1,0,0,0,861.5928561080731
+obese,male,omnivore,less frequently,never,natural gas,private,petrol,very frequently,medium,Sometimes,216,1736,5,2,15,13,0,0,1,0,1,0,0,0,0,1414.27006503046
+overweight,male,omnivore,daily,never,coal,private,electric,rarely,extra large,No,430,2720,1,13,14,3,1,1,0,0,1,1,1,1,0,1053.725287636157
+normal,female,vegetarian,less frequently,sometimes,coal,public,petrol,frequently,small,Sometimes,174,2441,0,9,8,11,0,0,0,0,0,0,1,1,1,603.7079389958826
+underweight,female,vegetarian,less frequently,often,coal,public,diesel,never,medium,Sometimes,211,1032,0,0,18,11,1,0,0,1,0,1,0,1,1,767.2509095892746
+obese,male,vegan,less frequently,never,coal,private,electric,very frequently,extra large,Sometimes,153,2789,9,4,17,9,1,0,1,0,0,0,0,0,1,907.7764833906281
+obese,female,vegan,twice a day,often,natural gas,private,hybrid,rarely,extra large,No,403,742,9,5,19,0,0,0,0,1,0,0,1,0,0,984.2757146844623
+underweight,male,omnivore,twice a day,often,coal,private,diesel,never,large,Sometimes,130,1518,8,9,7,4,0,0,1,0,1,1,0,0,0,1403.9684689834896
+obese,male,omnivore,twice a day,never,natural gas,private,petrol,never,large,No,264,801,9,13,5,1,1,1,1,1,1,1,1,0,0,1300.3075856826017
+overweight,female,vegan,less frequently,sometimes,electricity,public,petrol,frequently,large,Yes,428,1162,4,10,19,3,0,1,0,1,1,1,1,1,0,649.4180575541618
+normal,female,vegetarian,twice a day,often,coal,public,lpg,rarely,medium,Yes,160,1903,6,0,18,12,0,0,1,0,0,0,1,1,0,877.1313759119498
+normal,male,pescatarian,daily,often,wood,private,petrol,never,extra large,Sometimes,96,2572,8,1,1,8,1,0,0,0,0,0,0,1,1,1309.0527140733
+normal,male,vegetarian,daily,sometimes,electricity,private,petrol,very frequently,small,No,242,2024,9,6,3,2,1,1,0,0,1,1,1,0,0,1247.4951361841167
+underweight,female,vegetarian,daily,sometimes,coal,walk/bicycle,electric,rarely,small,Yes,80,1849,7,9,17,13,0,0,0,0,1,1,1,0,0,580.4796132162755
+overweight,male,vegetarian,twice a day,never,coal,public,electric,frequently,small,Yes,399,2964,4,10,19,2,0,0,1,0,1,1,1,0,1,910.2113465309385
+obese,male,vegan,more frequently,never,coal,walk/bicycle,lpg,never,small,No,126,815,9,5,9,12,0,1,1,0,1,0,0,0,0,771.4084646529892
+normal,male,omnivore,twice a day,sometimes,electricity,private,lpg,rarely,small,No,191,892,3,14,0,0,1,1,1,0,1,0,0,1,1,796.2073821161135
+obese,male,vegetarian,daily,sometimes,coal,walk/bicycle,lpg,never,large,Yes,98,1330,5,0,11,14,1,0,1,1,0,1,1,0,0,630.836998091532
+normal,female,vegetarian,more frequently,sometimes,electricity,private,electric,very frequently,small,Yes,477,1610,8,3,18,1,1,1,0,1,0,1,0,1,0,1037.4858599610277
+underweight,male,vegan,twice a day,never,coal,public,None,rarely,large,Yes,359,1315,1,14,8,1,0,1,0,0,0,0,0,0,0,607.3472404281401
+overweight,female,omnivore,more frequently,often,natural gas,public,diesel,frequently,small,Sometimes,125,1956,2,8,8,6,1,1,0,0,0,0,1,0,0,839.3177492233123
+obese,female,pescatarian,less frequently,never,electricity,walk/bicycle,diesel,never,small,Sometimes,158,1962,3,0,3,2,1,0,1,1,1,1,0,0,1,396.76620244182544
+overweight,male,pescatarian,twice a day,sometimes,coal,public,hybrid,never,extra large,No,330,1034,8,13,17,13,0,0,0,1,1,0,1,0,0,1069.438890713833
+underweight,female,vegetarian,more frequently,often,natural gas,private,electric,rarely,extra large,No,435,13,0,9,15,14,1,0,1,1,1,0,1,0,0,836.348948212278
+overweight,female,vegan,twice a day,sometimes,wood,private,diesel,frequently,small,Sometimes,117,909,4,9,0,3,1,0,1,0,0,1,0,0,0,761.2202388464934
+underweight,male,pescatarian,less frequently,often,coal,public,diesel,frequently,medium,Sometimes,315,2458,8,3,0,0,0,1,1,0,0,1,0,1,0,754.815088637517
+normal,female,omnivore,twice a day,never,electricity,walk/bicycle,petrol,rarely,extra large,Sometimes,80,1158,9,8,9,9,1,0,0,1,1,0,0,0,1,706.3683234943031
+underweight,male,vegan,less frequently,often,natural gas,walk/bicycle,petrol,never,extra large,Sometimes,496,108,7,11,18,9,1,1,0,1,1,0,0,1,1,732.0676998946705
+overweight,male,vegetarian,twice a day,sometimes,coal,private,electric,frequently,large,Yes,283,2794,8,12,8,14,0,0,0,1,0,0,0,0,1,962.3878898560529
+underweight,female,vegetarian,less frequently,sometimes,electricity,public,lpg,never,extra large,Sometimes,274,411,4,5,1,14,1,0,0,1,0,1,1,0,0,512.0997313074782
+obese,male,pescatarian,twice a day,sometimes,coal,public,diesel,never,extra large,Sometimes,358,1733,9,7,12,10,1,0,0,0,0,1,0,1,1,980.850910698151
+normal,male,vegan,twice a day,never,natural gas,public,lpg,frequently,small,Yes,458,990,2,14,1,8,0,0,1,1,1,0,0,0,1,614.2418594947596
+normal,female,omnivore,less frequently,often,wood,walk/bicycle,hybrid,never,small,Sometimes,320,1543,5,1,18,7,0,1,0,1,1,1,0,0,0,781.1699111628515
+overweight,female,vegetarian,less frequently,sometimes,wood,private,None,frequently,extra large,No,345,2053,5,8,3,10,0,0,0,0,1,0,0,0,0,515.6020721837492
+overweight,male,omnivore,more frequently,never,electricity,private,hybrid,very frequently,small,No,283,1648,7,1,10,0,0,0,1,1,0,0,0,1,1,1178.066491813217
+normal,male,omnivore,more frequently,sometimes,coal,private,hybrid,rarely,extra large,Sometimes,214,997,6,14,14,9,0,1,1,0,0,0,0,1,1,1117.010375797058
+normal,female,pescatarian,more frequently,sometimes,natural gas,walk/bicycle,petrol,very frequently,small,No,314,138,5,0,5,12,1,1,0,1,0,0,0,1,1,586.5859611885874
+underweight,male,vegan,less frequently,sometimes,coal,walk/bicycle,petrol,very frequently,medium,Yes,386,2973,4,11,12,0,0,0,0,1,0,1,0,0,1,571.4706800738194
+underweight,female,vegetarian,daily,sometimes,natural gas,public,None,frequently,extra large,No,317,2116,7,5,0,8,0,1,1,1,0,0,0,1,0,793.8486179000699
+obese,female,vegan,twice a day,never,natural gas,public,hybrid,very frequently,extra large,Yes,180,1578,8,1,3,0,1,0,1,1,0,0,1,0,0,561.1014827570018
+obese,male,vegan,daily,sometimes,coal,private,petrol,never,extra large,No,263,1227,0,13,14,13,0,0,1,1,0,1,0,0,1,936.3600153186472
+underweight,female,omnivore,more frequently,never,natural gas,private,lpg,rarely,extra large,Sometimes,309,2867,6,8,10,3,1,1,1,0,0,0,0,0,1,1349.4054272121334
+overweight,female,pescatarian,twice a day,never,wood,walk/bicycle,diesel,never,medium,No,84,643,4,9,3,2,1,0,0,1,1,0,1,0,1,484.7879383782041
+overweight,female,pescatarian,daily,sometimes,natural gas,public,None,never,large,No,449,2426,1,9,11,7,0,1,1,0,0,0,0,1,0,782.1130859756295
+normal,male,omnivore,more frequently,often,natural gas,walk/bicycle,lpg,rarely,extra large,Yes,387,2620,6,1,17,1,0,0,0,1,1,0,0,1,1,953.4287226213946
+obese,male,pescatarian,more frequently,sometimes,coal,public,diesel,very frequently,large,No,172,2181,0,8,17,0,0,1,0,1,1,1,0,0,1,865.6518255941462
+overweight,male,vegetarian,twice a day,often,natural gas,public,petrol,very frequently,large,No,306,2580,2,4,19,1,0,1,0,0,0,1,1,1,1,822.6166107001256
+normal,male,omnivore,less frequently,often,natural gas,walk/bicycle,None,very frequently,large,Yes,224,1001,7,6,17,0,0,1,0,1,0,0,1,0,0,793.0705805005673
+overweight,female,vegetarian,daily,never,natural gas,public,lpg,rarely,medium,No,319,2033,0,5,15,2,0,0,0,0,1,0,0,0,0,640.9665699449735
+overweight,male,vegan,more frequently,never,natural gas,walk/bicycle,hybrid,frequently,small,No,196,2837,0,8,13,11,1,0,0,1,0,1,0,0,1,537.6227970741534
+overweight,female,omnivore,daily,never,electricity,walk/bicycle,None,very frequently,medium,No,254,1587,9,7,9,8,0,0,0,0,1,1,1,0,1,738.1093368451085
+underweight,female,pescatarian,daily,never,coal,walk/bicycle,lpg,very frequently,large,Sometimes,238,2710,1,7,6,0,0,0,1,0,1,0,1,1,1,487.4980997286181
+underweight,female,omnivore,daily,sometimes,electricity,private,petrol,never,extra large,Sometimes,103,2559,9,0,0,7,1,1,0,0,0,1,0,1,0,1297.6167228720135
+normal,male,omnivore,twice a day,never,wood,walk/bicycle,petrol,never,medium,Sometimes,65,1495,1,13,2,1,0,1,1,0,0,1,0,1,0,454.88680832912524
+underweight,female,omnivore,more frequently,sometimes,wood,public,lpg,frequently,extra large,Yes,58,1816,8,0,1,2,1,1,1,0,1,0,1,0,1,736.2246319170993
+normal,male,vegan,less frequently,never,wood,public,lpg,never,small,Sometimes,222,3,5,9,13,2,0,1,0,0,0,0,0,1,0,522.602486912606
+obese,male,vegan,daily,sometimes,coal,private,petrol,frequently,extra large,Yes,82,2239,3,10,10,10,1,0,1,0,0,1,0,0,0,1163.8745861241134
+underweight,male,vegan,twice a day,never,wood,public,None,very frequently,medium,No,488,2564,1,0,17,0,0,1,0,1,0,1,0,1,0,846.2527345161812
+overweight,male,vegetarian,twice a day,sometimes,natural gas,walk/bicycle,None,frequently,medium,No,490,1254,5,8,6,13,0,0,0,1,0,1,1,1,0,670.6211227474107
+obese,female,omnivore,less frequently,often,natural gas,public,lpg,very frequently,small,Sometimes,276,2080,8,5,17,7,1,0,0,1,1,0,0,0,1,1023.299079132145
+underweight,female,vegan,twice a day,sometimes,wood,public,electric,frequently,large,Sometimes,143,1777,6,10,9,8,0,1,0,1,0,1,0,0,1,567.9115536083422
+obese,female,omnivore,less frequently,sometimes,coal,private,lpg,frequently,medium,Sometimes,382,1671,0,0,11,3,0,0,0,0,0,0,1,0,0,1186.2542942340751
+obese,female,omnivore,daily,never,electricity,public,electric,never,large,No,371,265,4,14,12,12,1,0,0,1,1,0,1,1,1,855.6665219526276
+underweight,female,omnivore,daily,often,coal,walk/bicycle,diesel,frequently,extra large,Sometimes,64,2242,6,1,10,10,0,1,1,1,0,0,1,1,0,716.0259339054112
+overweight,female,vegetarian,less frequently,often,wood,public,None,frequently,large,No,139,719,3,0,19,12,0,0,0,1,0,0,1,1,1,535.5053631692318
+normal,male,pescatarian,more frequently,often,wood,public,lpg,never,medium,Sometimes,365,2869,9,14,4,6,0,1,1,1,0,0,0,0,1,1021.3825806253129
+obese,female,omnivore,less frequently,sometimes,coal,public,petrol,very frequently,medium,Sometimes,124,2768,6,2,10,11,1,1,1,0,1,0,1,1,1,889.203964446569
+normal,female,vegetarian,less frequently,sometimes,coal,public,petrol,frequently,extra large,Sometimes,337,2481,8,1,19,11,0,1,1,0,1,0,1,0,1,1034.188787627921
+underweight,female,vegan,twice a day,never,electricity,public,electric,rarely,small,No,67,1093,1,3,15,14,1,1,0,0,0,1,0,0,0,426.0677426744593
+overweight,female,omnivore,daily,often,wood,private,electric,never,medium,No,334,559,4,9,2,6,1,0,0,0,1,0,0,0,1,806.2851487190741
+normal,male,vegan,less frequently,never,coal,walk/bicycle,electric,frequently,large,Yes,135,1420,4,0,18,12,1,0,1,1,0,0,1,0,0,498.2581135958813
+underweight,male,vegetarian,less frequently,never,natural gas,private,lpg,frequently,extra large,No,406,1694,1,11,2,9,0,0,0,0,1,1,0,0,1,830.8240385903135
+overweight,female,vegetarian,less frequently,sometimes,natural gas,walk/bicycle,lpg,frequently,large,Sometimes,67,1936,1,6,6,9,1,0,0,1,1,0,0,0,1,339.30005716267794
+obese,male,pescatarian,more frequently,sometimes,electricity,public,None,frequently,small,Yes,111,2367,0,13,13,8,1,0,1,0,0,0,1,1,0,720.4748571747823
+underweight,male,vegan,more frequently,sometimes,coal,private,lpg,very frequently,small,Yes,347,232,6,14,7,2,0,0,1,1,1,0,0,1,0,845.342195793303
+overweight,male,pescatarian,daily,never,electricity,private,petrol,rarely,extra large,Sometimes,184,2673,7,10,6,8,1,0,0,1,0,1,0,1,1,1404.4704463480887
+obese,male,vegan,daily,sometimes,electricity,private,diesel,rarely,small,Sometimes,80,2978,1,14,4,13,1,0,0,0,0,0,1,0,1,1153.6188574369078
+normal,female,vegan,more frequently,never,coal,walk/bicycle,petrol,never,large,Sometimes,104,332,0,2,15,8,0,0,1,0,1,0,1,1,0,489.9426417634439

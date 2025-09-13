@@ -1,0 +1,97 @@
+body {
+    background-image: url("data:image/png;base64,BACKGROUND_PLACEHOLDER");        
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+p {
+    color: black;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-size: 20px;
+}
+
+div[data-testid="StyledLinkIconContainer"] > a,
+div[data-testid="StyledLinkIconContainer"] > a > svg {
+    background-color: rgba(255, 255, 255, 0);
+    stroke: rgba(0, 0, 0, 0);
+}
+
+#popup {
+    display: none;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    overflow: hidden;
+}
+
+/* Buttons */
+.button-17,
+div[data-testid="column"] > div > div > div > div > div > button {
+    align-items: center;
+    appearance: none;
+    background-color: #fff;
+    border-radius: 24px;
+    border-style: none;
+    box-shadow: rgba(0, 0, 0, .2) 0 3px 5px -1px,
+                rgba(0, 0, 0, .14) 0 6px 10px 0,
+                rgba(0, 0, 0, .12) 0 1px 18px 0;
+    box-sizing: border-box;
+    color: #3c4043;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    height: 48px;
+    justify-content: center;
+    letter-spacing: .25px;
+    line-height: normal;
+    max-width: 100%;
+    padding: 2px 24px;
+    position: relative;
+    text-align: center;
+    transition: box-shadow 280ms cubic-bezier(.4, 0, .2, 1),
+                opacity 15ms linear 30ms,
+                transform 270ms cubic-bezier(0, 0, .2, 1) 0ms;
+    width: auto;
+    margin: 0 auto;
+}
+
+.button-17:hover {
+    background: #F6F9FE;
+    color: #174ea6;
+}
+
+.button-17:active {
+    box-shadow: 0 4px 4px 0 rgb(60 64 67 / 30%),
+                0 8px 12px 6px rgb(60 64 67 / 15%);
+    outline: none;
+}
+
+.button-17:focus {
+    outline: none;
+    border: 2px solid #4285f4;
+}
+
+/* Card-like sections */
+div[id^=tabs-bui] > div > div > div > div > div[class="stMarkdown"],
+div[id^=tabs-bui] > div > div > div > div > div[class="st-ae"] {
+    padding: 20px;
+    border-radius: 2rem;
+    background: rgba(255, 255, 255, 0.7);
+}
+
+header[data-testid="stHeader"],
+div[data-testid="stDecoration"] {
+    background: rgba(255, 255, 255, 0);
+}
+
+/* Footer links */
+div[data-testid="stMarkdownContainer"] > p > a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 18px;
+}
